@@ -3,6 +3,7 @@
 <ul>
   <li>🔭 I’m currently working on 2D GAME Java</li>
   <li>🌱 I’m currently learning JAVA</li>
+  <li>📫 How to reach me: timoty.viola@epitech.eu</li>
 </ul>
 
 # 💻 Tech Stack:
