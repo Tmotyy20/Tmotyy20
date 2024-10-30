@@ -1,5 +1,5 @@
 <h1 align="center">💫 Hi 👋, I'm Timoty</h1>
-<p align="center"><br>A passionate IT student from Toulouse 🇫🇷<br></p>
+<p align="center"><br><strong>A passionate IT student from Toulouse 🇫🇷</strong></p>
 <ul>
   <li>🔭 I’m currently working on 2D GAME Java</li>
   <li>🌱 I’m currently learning JAVA</li>
