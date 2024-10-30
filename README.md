@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 
 
 <p align="center"><strong>A passionate IT student from Toulouse 🇫🇷</strong></p>
-🏫 I’m a student in Pre Msc at Epitech Technology
-
-🤔 I’m currently learning Data engineering
-
-💬 You can reach me at timoty.viola@epitech.eu
+<ul>
+  <li>🏫 I’m a student in Pre Msc at Epitech Technology</li>
+  
+  <li>🤔 I’m currently learning Data engineering</li>
+  
+  <li>💬 You can reach me at timoty.viola@epitech.eu</li>
+</ul>
