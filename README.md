@@ -18,4 +18,3 @@ Hi 👋, I'm Timoty<br>A passionate IT student from Toulouse 🇫🇷<br>🔭 I�
 ---
 [![](https://visitcount.itsvg.in/api?id=tmotyy20&icon=5&color=10)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
