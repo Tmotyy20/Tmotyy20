@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <ul>
   <li>🏫 I’m a student in Pre Msc at Epitech Technology</li>
   
-  <li>🤔 I’m currently learning Data engineering</li>
+  <li>🤔 I’m currently learning Java</li>
   
   <li>💬 You can reach me at timoty.viola@epitech.eu</li>
 </ul>
