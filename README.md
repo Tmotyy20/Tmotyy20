@@ -16,3 +16,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tmotyy20&show_icons=true&locale=en&layout=compact" alt="tmotyy20" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tmotyy20&show_icons=true&locale=en" alt="tmotyy20" /></p>
+
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{tmotyy20}/count.svg" /></p> 
