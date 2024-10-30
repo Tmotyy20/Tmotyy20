@@ -1,4 +1,4 @@
-## Welcome 👋, I'm Timoty
+## <h1 align="center">Welcome 👋, I'm Timoty</h1>
 
 <!--
 **Tmotyy20/Tmotyy20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<p align="center">A passionate IT student from Toulouse 🇫🇷</p>
+<h2 align="center">A passionate IT student from Toulouse 🇫🇷</h2>
 🏫 I’m a student in Pre Msc at Epitech Technology
 
 🤔 I’m currently learning Data engineering
