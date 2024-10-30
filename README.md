@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h2 align="center">A passionate IT student from Toulouse 🇫🇷</h2>
+<p align="center"><strong>A passionate IT student from Toulouse 🇫🇷</strong></p>
 🏫 I’m a student in Pre Msc at Epitech Technology
 
 🤔 I’m currently learning Data engineering
